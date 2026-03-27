@@ -29,11 +29,11 @@ Hey there! I'm a developer who believes in writing clean code with a cozy cup of
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DjornoDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DjornoDev&bg_color=ffcfe9&title_color=9e4c98&text_color=403d3d&show_icons=true&hide_border=true&count_private=true&icon_color=9e4c98)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DjornoDev&theme=tokyonight&hide_border=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DjornoDev&theme=tokyonight&layout=compact&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DjornoDev&bg_color=ffcfe9&title_color=9e4c98&text_color=403d3d&layout=compact&hide_border=true)
 
 </div>
 
@@ -71,7 +71,7 @@ Hey there! I'm a developer who believes in writing clean code with a cozy cup of
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DjornoDev&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DjornoDev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
