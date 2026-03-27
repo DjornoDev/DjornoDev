@@ -1,16 +1,107 @@
-## Hi there 👋
+# ✨ Welcome to my cozy corner ✨
 
-<!--
-**DjornoDev/DjornoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+```
+  =^._.^=
+  ∫∫∫∫∫∫∫
+```
 
-Here are some ideas to get you started:
+**A soft developer's space** 🐾✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🌙 About Me
+
+Hey there! I'm a developer who believes in writing clean code with a cozy cup of coffee ☕ and good vibes. I love creating things that are both functional and beautiful, just like a perfectly warm anime afternoon.
+
+- 🔭 **Currently working on** creative projects that blend aesthetics with functionality
+- 🌱 **Currently learning** new technologies and development patterns
+- 👾 **Tech Stack** JavaScript • Python • Web Development
+- 🎨 **Design Philosophy** Cozy, clean, and user-friendly
+- 💻 **Passion** Building tools that make dev life easier
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DjornoDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DjornoDev&theme=tokyonight&hide_border=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DjornoDev&theme=tokyonight&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DjornoDev&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎀 What I Love
+
+- 💟 Writing elegant, maintainable code
+- 🎌 Anime aesthetics and cute cat energy
+- 🌸 Design systems and UI/UX
+- 📚 Continuous learning & growth
+- 🍵 Cozy development environments
+
+---
+
+## 📱 Socials & Visitor Stats
+
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=DjornoDev&color=FF69B4&style=flat-square&label=Visitors)
+
+</div>
+
+---
+
+## 🐱 Fun Facts
+
+- 🎵 I code better with lo-fi and anime soundtracks
+- 🌙 Night owl developer (peak productivity after sunset)
+- 🍰 Coffee is my primary fuel source
+- 😺 Cat person through and through
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Reach out for collaborations or just to chat!
+- 💬 Ask me about web development, design, or anime cats
+
+---
+
+<div align="center">
+  
+*made with 💜 and ✨ by DjornoDev*
+
+</div>
