@@ -7,7 +7,7 @@
   ∫∫∫∫∫∫∫
 ```
 
-**A soft developer's space** 🐾✨
+**Djorno's Space** 🐾✨
 
 </div>
 
@@ -15,14 +15,7 @@
 
 ## 🌙 About Me
 
-Hey there! I'm a developer who believes in writing clean code with a cozy cup of coffee ☕ and good vibes. I love creating things that are both functional and beautiful, just like a perfectly warm anime afternoon.
-
-- 🔭 **Currently working on** creative projects that blend aesthetics with functionality
-- 🌱 **Currently learning** new technologies and development patterns
-- 👾 **Tech Stack** JavaScript • Python • Web Development
-- 🎨 **Design Philosophy** Cozy, clean, and user-friendly
-- 💻 **Passion** Building tools that make dev life easier
-
+Hi!!! I'm Daron.. I love coding, cycling, or some extreme activities. But mostly at home coding haha! 😆
 ---
 
 ## 📊 GitHub Stats & Activity
@@ -77,16 +70,6 @@ Hey there! I'm a developer who believes in writing clean code with a cozy cup of
 
 ---
 
-## 🎀 What I Love
-
-- 💟 Writing elegant, maintainable code
-- 🎌 Anime aesthetics and cute cat energy
-- 🌸 Design systems and UI/UX
-- 📚 Continuous learning & growth
-- 🍵 Cozy development environments
-
----
-
 ## 📱 Socials & Visitor Stats
 
 <div align="center">
@@ -94,22 +77,6 @@ Hey there! I'm a developer who believes in writing clean code with a cozy cup of
 ![Visitors](https://komarev.com/ghpvc/?username=DjornoDev&color=FF69B4&style=flat-square&label=Visitors)
 
 </div>
-
----
-
-## 🐱 Fun Facts
-
-- 🎵 I code better with lo-fi and anime soundtracks
-- 🌙 Night owl developer (peak productivity after sunset)
-- 🍰 Coffee is my primary fuel source
-- 😺 Cat person through and through
-
----
-
-## 📫 Let's Connect
-
-- 📧 Reach out for collaborations or just to chat!
-- 💬 Ask me about web development, design, or anime cats
 
 ---
 
