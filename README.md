@@ -1,4 +1,4 @@
-# ✨ Welcome to my cozy corner ✨
+# Welcome to my cozy corner
 
 <div align="center">
   
@@ -13,12 +13,12 @@
 
 ---
 
-## 🌙 About Me
+## About Me
 
 Hi!!! I'm Daron.. I love coding, cycling, or some extreme activities. But mostly at home coding haha! 😆
 ---
 
-## 📊 GitHub Stats & Activity
+## GitHub Stats & Activity
 
 <div align="center">
   
@@ -32,7 +32,7 @@ Hi!!! I'm Daron.. I love coding, cycling, or some extreme activities. But mostly
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <div align="center">
 
@@ -60,7 +60,7 @@ Hi!!! I'm Daron.. I love coding, cycling, or some extreme activities. But mostly
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -70,18 +70,12 @@ Hi!!! I'm Daron.. I love coding, cycling, or some extreme activities. But mostly
 
 ---
 
-## 📱 Socials & Visitor Stats
+## Socials & Visitor Stats
 
 <div align="center">
 
 ![Visitors](https://komarev.com/ghpvc/?username=DjornoDev&color=FF69B4&style=flat-square&label=Visitors)
 
 </div>
-
----
-
-<div align="center">
-  
-*made with 💜 and ✨ by DjornoDev*
 
 </div>
