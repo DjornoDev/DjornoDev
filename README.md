@@ -1,10 +1,11 @@
-# Welcome to my cozy corner
+# Hi there! I'm Daron <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0eXJ3Z2Z3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center">
-  
-```
-  =^._.^=
-  ∫∫∫∫∫∫∫
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9e4c98&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Cycling+Enthusiast;Building+cool+stuff..." alt="Typing SVG" />
+
+  ```text
+    =^._.^=
+    ∫∫∫∫∫∫∫
 ```
 
 **Djorno's Space** 🐾✨
