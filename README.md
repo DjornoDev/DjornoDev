@@ -9,7 +9,7 @@
 I am a graduating **Information Technology student** and **Software Developer** based in the Philippines. I am passionate about architecting robust backend systems and crafting seamless modern mobile experiences. 
 
 *   🔭 I’m currently working on polished portfolio projects to showcase my backend skills.
-*   🌱 I’m currently deep-diving into **System Architecture** and **Cloud Integration**.
+*   🌱 I’m currently deep-diving into **System Architecture** and **Backend-Development**.
 *   ⚡ In my free time, you'll find me **cycling**, hitting a heavy session at the **gym**, or running the table at **billiards** 🎱.
 
 ---
