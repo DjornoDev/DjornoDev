@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9e4c98&center=true&vCenter=true&width=435&lines=Software+Developer;Cycling+Enthusiast;Building+cool+stuff..." alt="Typing SVG" />
+</div>
 
 ## About Me
 
