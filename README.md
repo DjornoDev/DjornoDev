@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9e4c98&center=true&vCenter=true&width=435&lines=Software+Developer;Cycling+Enthusiast;Building+cool+stuff..." alt="Typing SVG" />
 
-  ```text
+```text
     =^._.^=
     ∫∫∫∫∫∫∫
 ```
@@ -16,7 +16,7 @@
 
 ## About Me
 
-Hi!!! I'm Daron.. I love coding, cycling, or some extreme activities. But mostly at home coding haha! 😆
+I'm a Graduating I.T Studentt and Software Developer based in the Philippines. I specialize in building backend systems and modern mobile applications. When I'm not debugging, I’m likely out on my bike or hitting a heavy session at the gym or...playing billiards 🎱...
 ---
 
 ## GitHub Stats & Activity
