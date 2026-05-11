@@ -10,7 +10,8 @@ I am a graduating **Information Technology student** and **Software Developer** 
 
 *   🔭 I’m currently working on polished portfolio projects to showcase my backend skills.
 *   🌱 I’m currently deep-diving into **System Architecture** and **Backend-Development**.
-*   ⚡ In my free time, you'll find me **cycling**, hitting a heavy session at the **gym**, or running the table at **billiards** 🎱.
+*   ⚡ In my free time, you'll find me **cycling** 🚴<img width="498" height="374" alt="MrBeanHolidayMisterBeanHolidayGIF" src="https://github.com/user-attachments/assets/5a32c1f4-845e-4674-9a93-091981a22337" />
+, hitting a heavy session at the **gym**, or running the table at **billiards** 🎱.
 
 ---
 
