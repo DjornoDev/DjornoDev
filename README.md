@@ -58,6 +58,19 @@ I am a graduating **Information Technology student** and **Software Developer** 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjornoDev&bg_color=ffffff&title_color=9e4c98&text_color=403d3d&layout=compact&hide_border=false" height="170px" alt="DjornoDev's top languages" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DjornoDev&show_icons=true&theme=radical&title_color=9e4c98&icon_color=9e4c98&text_color=403d3d&bg_color=ffffff" height="170" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DjornoDev&layout=compact&theme=radical&title_color=9e4c98&text_color=403d3d&bg_color=ffffff" height="170" alt="Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DjornoDev&theme=zenburn" width="100%" />
+</p>
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/DjornoDev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FManila" width="100%" alt="Metrics" />
+</div>
+
 <br/>
 
 <div align="center">
