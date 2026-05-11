@@ -54,8 +54,8 @@ I am a graduating **Information Technology student** and **Software Developer** 
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DjornoDev&bg_color=ffffff&title_color=9e4c98&text_color=403d3d&show_icons=true&hide_border=false&count_private=true&icon_color=9e4c98" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjornoDev&bg_color=ffffff&title_color=9e4c98&text_color=403d3d&layout=compact&hide_border=false" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DjornoDev&bg_color=ffffff&title_color=9e4c98&text_color=403d3d&show_icons=true&hide_border=false&count_private=true&icon_color=9e4c98" height="170px" alt="DjornoDev's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjornoDev&bg_color=ffffff&title_color=9e4c98&text_color=403d3d&layout=compact&hide_border=false" height="170px" alt="DjornoDev's top languages" />
 </div>
 
 <br/>
