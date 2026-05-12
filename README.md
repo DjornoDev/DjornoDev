@@ -8,7 +8,8 @@
 
 I am a graduating **Information Technology student** and **Software Developer** based in the Philippines. I am passionate about architecting backend systems and crafting modern mobile/web experiences. 
 
-*   🔭 I’m currently working on polished portfolio projects to showcase my backend skills.
+*   🔭 I’m currently working on portfolio projects to showcase my backend skills.
+*   I'm currently taking exams for upskillings for c# basic, css basic, js basic, sql basic, and more.
 *   🌱 I’m currently deep-diving into **System Architecture** and **Backend-Development**.
 *   ⚡ In my free time, you'll find me **cycling** 🚴<img width="498" height="374" alt="MrBeanHolidayMisterBeanHolidayGIF" src="https://github.com/user-attachments/assets/5a32c1f4-845e-4674-9a93-091981a22337" />
 , hitting a heavy session at the **gym** <img width="242" height="294" alt="PushUpNextLevelGIF" src="https://github.com/user-attachments/assets/cf8623e7-6ad9-42fe-ba6c-7f8cac160799" />
