@@ -6,7 +6,7 @@
 
 ## 💫 About Me :>
 
-I am a graduating **Information Technology student** and **Software Developer** based in the Philippines. I am passionate about architecting robust backend systems and crafting seamless modern mobile experiences. 
+I am a graduating **Information Technology student** and **Software Developer** based in the Philippines. I am passionate about architecting backend systems and crafting modern mobile/web experiences. 
 
 *   🔭 I’m currently working on polished portfolio projects to showcase my backend skills.
 *   🌱 I’m currently deep-diving into **System Architecture** and **Backend-Development**.
