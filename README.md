@@ -80,5 +80,5 @@ I am a graduating **Information Technology student** and **Software Developer** 
 </p>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=DjornoDev&color=9e4c98&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=DjornoDev&color=d11717&style=flat-square&label=Profile+Views" />
 </div>
