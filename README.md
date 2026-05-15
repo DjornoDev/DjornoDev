@@ -31,7 +31,7 @@ I'm a graduating **Information Technology student** and **Software Developer** b
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
-### ⚙️ Backend Development & Languages
+### ⚙️ Backend Technologies & Languages
 <p align="left">
 
 <img src="https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
