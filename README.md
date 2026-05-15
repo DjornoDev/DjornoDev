@@ -17,7 +17,7 @@ I'm a graduating **Information Technology student** and **Software Developer** b
 
 ## 🛠️ Tech Stack
 
-### 📱 Frontend & Mobile Development
+### 📱 Frontend & Mobile App Development
 <p align="left">
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
