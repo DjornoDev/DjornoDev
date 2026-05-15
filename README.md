@@ -9,7 +9,7 @@
 I am a graduating **Information Technology student** and **Software Developer** based in the Philippines. I am passionate about architecting backend systems and crafting modern mobile/web experiences. 
 
 * 🔭 I’m currently working on exciting portfolio projects to showcase my backend skills.
-*   🥷 I'm currently taking exams for upskillings for c# basic, css basic, js basic, sql basic, and more.
+*   🥷 I'm currently taking exams for upskilling in c# basic, css basic, js basic, sql basic, and more.
 *   🌱 I’m currently deep-diving into **System Architecture** and **Backend-Development**.
 *   ⚡ In my free time, you'll find me **cycling** 🚴, hitting a heavy session at the **gym**, or running the table at **billiards** 🎱.
 
