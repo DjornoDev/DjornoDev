@@ -1,6 +1,5 @@
 # Hi there! I'm Daron <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0eXJ3Z2Z3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 😺😸
-
-<div align="center">  <img src="https://komarev.com/ghpvc/?username=DjornoDev&color=d11717&style=flat-square&label=Profile+Views" /> </div>
+<div align="right">  <img src="https://komarev.com/ghpvc/?username=DjornoDev&color=d11717&style=flat-square&label=Profile+Views" /> </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9e4c98&center=true&vCenter=true&width=435&lines=Software+Developer;Backend;Mobile+App+Dev;Web+Dev;Building+the+future..." alt="Typing SVG" />
@@ -76,7 +75,3 @@ I am a graduating **Information Technology student** and **Software Developer** 
 <a href="https://www.linkedin.com/in/daron-mangaoang-8ba60a28b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:daron.mangaoang@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<div align="right">
- 
-</div>
