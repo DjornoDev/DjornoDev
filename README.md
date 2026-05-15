@@ -57,6 +57,7 @@ I'm a graduating **Information Technology student** and **Software Developer** b
 
 ---
 
+
 ## 📊 GitHub Statistics & Activity
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DjornoDev&show_icons=true&theme=radical&title_color=9e4c98&icon_color=9e4c98&text_color=403d3d&bg_color=ffffff" height="180" alt="Stats" />
