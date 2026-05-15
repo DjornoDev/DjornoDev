@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9e4c98&center=true&vCenter=true&width=435&lines=Software+Developer;Backend;Mobile+App+Dev;Web+Dev;Building+the+future..." alt="Typing SVG" />
 </div>
 
-## 💫 About Me :>
+## 💫 About Me
 
 I am a graduating **Information Technology student** and **Software Developer** based in the Philippines. I am passionate about architecting backend systems and crafting modern mobile/web experiences. 
 
