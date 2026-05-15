@@ -15,7 +15,7 @@ I am a graduating **Information Technology student** and **Software Developer** 
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### 📱 Frontend & Mobile
 <p align="left">
