@@ -69,7 +69,7 @@ I am a graduating **Information Technology student** and **Software Developer** 
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect
 <p align="left">
 <a href="https://www.linkedin.com/in/daron-mangaoang-8ba60a28b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:daron.mangaoang@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
