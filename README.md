@@ -64,7 +64,7 @@ I'm a graduating **Information Technology student** and **Software Developer** b
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DjornoDev&theme=github-compact&bg_color=000000&hide_border=false" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DjornoDev&theme=react-dark&bg_color=000000&hide_border=false" width="100%" />
 </div>
 
 ---
