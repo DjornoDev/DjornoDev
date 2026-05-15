@@ -11,7 +11,7 @@ I'm a graduating **Information Technology student** and **Software Developer** b
 
 *   🔭 I’m currently working on exciting portfolio projects to showcase my backend skills.
 *   🥷 Currently taking exams for upskilling in C# fundamentals, CSS fundamentals, JavaScript fundamentals, SQL fundamentals, and more.
-* 🌱 I’m currently deep-diving into **System Design & Architecture** and **Backend Development**.
+*   🌱 I’m currently deep-diving into **System Design & Architecture** and **Backend Development**.
 * ⚡ During my free time, you'll find me **cycling** 🚴, hitting a heavy session at the **gym**, or running the table at **billiards** 🎱.
 
 ---
