@@ -7,7 +7,10 @@
 
 ## 💫 About Me
 
-I'm a graduating **Information Technology student** and **Software Developer** based in the Philippines 🇵🇭. I'm passionate about architecting scalable backend systems and crafting modern mobile and web experiences. 
+I'm a graduating **Information Technology student** and **Software Developer** based in the Philippines 🇵🇭. I'm passionate about architecting scalable backend systems and crafting modern mobile and web experiences.
+
+### 🎯 Current Focus
+Building robust and scalable applications with modern technologies. 
 
 *   🔭 I’m currently working on exciting portfolio projects to showcase my backend skills.
 *   🥷 Currently taking exams for upskilling in C# fundamentals, CSS fundamentals, JavaScript fundamentals, SQL fundamentals, and more.
