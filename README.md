@@ -5,24 +5,24 @@
 </div>
 
 
-## 💫 About Me
+## About Me
 
 I'm a graduating **Information Technology student** and **Software Developer** based in the Philippines 🇵🇭. I'm passionate about architecting scalable backend systems and crafting modern mobile and web experiences.
 
-### 🎯 Current Focus
+### Current Focus
 Building robust and scalable applications with modern technologies. 
 
-*   🔭 I’m currently working on exciting portfolio projects to showcase my backend skills.
-*   🥷 Currently taking exams for upskilling in C# fundamentals, CSS fundamentals, JavaScript fundamentals, SQL fundamentals, and more.
-*   🌱 I’m currently deep-diving into **System Design & Architecture** and **Backend Development**.
-*   ⚡ During my free time, you'll find me **cycling** 🚴, hitting a heavy session at the **gym**, or running the table at **billiards** 🎱.
+*   I’m currently working on exciting portfolio projects to showcase my backend skills.
+*   Currently taking exams for upskilling in C# fundamentals, CSS fundamentals, JavaScript fundamentals, SQL fundamentals, and more.
+*   I’m currently deep-diving into **System Design & Architecture** and **Backend Development**.
+*   During my free time, you'll find me **cycling** 🚴, hitting a heavy session at the **gym**, or running the table at **billiards** 🎱.
 
 ---
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 📱 Frontend & Mobile App Development
+### Frontend & Mobile App Development
 <p align="left">
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -36,7 +36,7 @@ Building robust and scalable applications with modern technologies.
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
-### ⚙️ Backend Technologies & Languages
+### Backend Technologies & Languages
 <p align="left">
 
 <img src="https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -50,7 +50,7 @@ Building robust and scalable applications with modern technologies.
 <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-### 🗄️ Database & Dev Tools
+### Database & Dev Tools
 <p align="left">
 
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
@@ -61,7 +61,7 @@ Building robust and scalable applications with modern technologies.
 ---
 
 
-## 📊 GitHub Statistics & Activity
+## GitHub Statistics & Activity
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DjornoDev&show_icons=true&theme=radical&title_color=9e4c98&icon_color=9e4c98&text_color=403d3d&bg_color=ffffff" height="180" alt="Stats" />
 </p>
@@ -79,7 +79,7 @@ Building robust and scalable applications with modern technologies.
 ---
 
 
-## 🤝 Let's Connect
+## Let's Connect
 <p align="left">
 
 <a href="https://www.linkedin.com/in/daron-mangaoang-8ba60a28b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
