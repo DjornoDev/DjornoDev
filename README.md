@@ -66,6 +66,12 @@ Building robust and scalable applications with modern technologies.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DjornoDev&theme=midnight-purple&hide_border=true&background=0d0015&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=8b5cf6&currStreakNum=c4b5fd&sideNums=c4b5fd" width="60%" />
 </p>
 
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JZDG&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DjornoDev&theme=zenburn" width="100%" />
 </p>
