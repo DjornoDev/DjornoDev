@@ -63,7 +63,7 @@ Building robust and scalable applications with modern technologies.
 
 ## GitHub Statistics & Activity
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DjornoDev&show_icons=true&theme=radical&title_color=9e4c98&icon_color=9e4c98&text_color=403d3d&bg_color=ffffff" height="180" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DjornoDev&theme=midnight-purple&hide_border=true&background=0d0015&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=8b5cf6&currStreakNum=c4b5fd&sideNums=c4b5fd" width="60%" />
 </p>
 
 <p align="center">
