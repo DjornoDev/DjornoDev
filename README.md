@@ -69,7 +69,7 @@ Building robust and scalable applications with modern technologies.
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JZDG&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DjornoDev&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
 </p>
 
 <p align="center">
