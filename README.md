@@ -63,7 +63,13 @@ Building robust and scalable applications with modern technologies.
 
 ## GitHub Statistics & Activity
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DjornoDev&show_icons=true&theme=radical&title_color=9e4c98&icon_color=9e4c98&text_color=403d3d&bg_color=ffffff" height="180" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DjornoDev&theme=midnight-purple&hide_border=true&background=0d0015&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=8b5cf6&currStreakNum=c4b5fd&sideNums=c4b5fd" width="60%" />
+</p>
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DjornoDev&theme=discord&no-frame=true&no-bg=true&column=3&row=1&margin-w=10" width="90%" />
 </p>
 
 <p align="center">
@@ -85,6 +91,7 @@ Building robust and scalable applications with modern technologies.
 <a href="https://www.linkedin.com/in/daron-mangaoang-8ba60a28b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:daron.mangaoang@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+<<<<<<< HEAD
 
 <!-- Auto commit #1 - 2026-05-18 08:50:15 -->
 <!-- Auto commit #2 - 2026-05-18 08:50:17 -->
@@ -247,3 +254,5 @@ Building robust and scalable applications with modern technologies.
 <!-- Auto commit #10 - 2026-05-23 23:54:22 -->
 <!-- Auto commit #11 - 2026-05-23 23:54:23 -->
 <!-- Auto commit #12 - 2026-05-23 23:54:24 -->
+=======
+>>>>>>> 3381c641c7584100a4b7301b0375d71cefe03381
