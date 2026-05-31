@@ -9,14 +9,6 @@
 
 I'm a graduating **Information Technology student** and **Software Developer** based in the Philippines 🇵🇭. I'm passionate about architecting scalable backend systems and crafting modern mobile and web experiences.
 
-### Current Focus
-Building robust and scalable applications with modern technologies. 
-
-*   I’m currently working on exciting portfolio projects to showcase my backend skills.
-*   Currently taking exams for upskilling in C# fundamentals, CSS fundamentals, JavaScript fundamentals, SQL fundamentals, and more.
-*   I’m currently deep-diving into **System Design & Architecture** and **Backend Development**.
-*   During my free time, you'll find me **cycling** 🚴, hitting a heavy session at the **gym**, or running the table at **billiards** 🎱.
-
 ---
 
 
@@ -64,12 +56,6 @@ Building robust and scalable applications with modern technologies.
 ## GitHub Statistics & Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DjornoDev&theme=midnight-purple&hide_border=true&background=0d0015&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=8b5cf6&currStreakNum=c4b5fd&sideNums=c4b5fd" width="60%" />
-</p>
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DjornoDev&theme=discord&no-frame=true&no-bg=true&column=3&row=1&margin-w=10" width="90%" />
 </p>
 
 <p align="center">
@@ -243,33 +229,3 @@ Building robust and scalable applications with modern technologies.
 <!-- Auto commit #28 - 2026-05-30 14:03:12 -->
 <!-- Auto commit #29 - 2026-05-30 14:03:14 -->
 <!-- Auto commit #30 - 2026-05-30 14:03:15 -->
-<!-- Auto commit #1 - 2026-05-31 12:38:44 -->
-<!-- Auto commit #2 - 2026-05-31 12:38:44 -->
-<!-- Auto commit #3 - 2026-05-31 12:38:46 -->
-<!-- Auto commit #4 - 2026-05-31 12:38:47 -->
-<!-- Auto commit #5 - 2026-05-31 12:38:48 -->
-<!-- Auto commit #6 - 2026-05-31 12:38:49 -->
-<!-- Auto commit #7 - 2026-05-31 12:38:51 -->
-<!-- Auto commit #8 - 2026-05-31 12:38:52 -->
-<!-- Auto commit #9 - 2026-05-31 12:38:53 -->
-<!-- Auto commit #10 - 2026-05-31 12:38:54 -->
-<!-- Auto commit #11 - 2026-05-31 12:38:56 -->
-<!-- Auto commit #12 - 2026-05-31 12:38:57 -->
-<!-- Auto commit #13 - 2026-05-31 12:38:58 -->
-<!-- Auto commit #14 - 2026-05-31 12:38:59 -->
-<!-- Auto commit #15 - 2026-05-31 12:39:00 -->
-<!-- Auto commit #16 - 2026-05-31 12:39:01 -->
-<!-- Auto commit #17 - 2026-05-31 12:39:02 -->
-<!-- Auto commit #18 - 2026-05-31 12:39:03 -->
-<!-- Auto commit #19 - 2026-05-31 12:39:04 -->
-<!-- Auto commit #20 - 2026-05-31 12:39:05 -->
-<!-- Auto commit #21 - 2026-05-31 12:39:07 -->
-<!-- Auto commit #22 - 2026-05-31 12:39:08 -->
-<!-- Auto commit #23 - 2026-05-31 12:39:09 -->
-<!-- Auto commit #24 - 2026-05-31 12:39:10 -->
-<!-- Auto commit #25 - 2026-05-31 12:39:11 -->
-<!-- Auto commit #26 - 2026-05-31 12:39:12 -->
-<!-- Auto commit #27 - 2026-05-31 12:39:13 -->
-<!-- Auto commit #28 - 2026-05-31 12:39:14 -->
-<!-- Auto commit #29 - 2026-05-31 12:39:15 -->
-<!-- Auto commit #30 - 2026-05-31 12:39:17 -->
